@@ -1,0 +1,11 @@
+# Database & Secrets (NEVER COMMIT)
+data/*.db
+data/*.db-*
+data/*_auth.json
+backup/
+.cache/
+__pycache__/
+*.pyc
+*.bak_*
+*.pre_clean_*
+.env
